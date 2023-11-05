@@ -511,7 +511,8 @@ main {
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
-    /* gap: 40px; */
+    gap: 10px;
+    margin: 0 10px;
 }
 
 .plans-container--card {

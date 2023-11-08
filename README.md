@@ -38,6 +38,8 @@ In this project I reaffirmed the best practices in the development of a professi
 
 ### What I learned
 
+I have learned to establish more adequate measures to the text and letter and space between elements.
+
 ### Continued development
 
 I will be improving the color contrast and performance improvement part of my projects.

@@ -46,5 +46,6 @@ I will be improving the color contrast and performance improvement part of my pr
 
 ## Author
 
-- Website GitHub - [ronitzdev](https://github.com/ronitzdev)
+- GitHub - [ronitzdev](https://github.com/ronitzdev)
+- Frontend Mentor - [@ronitzdev](https://github.com/ronitzdev)
 - LinkedIn - [@ronitzdev](https://www.linkedin.com/in/ronitzdev/)
